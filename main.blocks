@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_print_message" id="e%dgq9S7FcJ}Vf{}(`q!" disabled="true" x="497" y="-65"><value name="text"><shadow type="text" id="g*ALK$r(BNOgw)4r1E0r" disabled="true"><field name="TEXT">2A30 Cyus Wong</field></shadow></value></block><block type="pxt-on-start" id="$oxn3dD=pBW]i%~`c~^=" x="0" y="0"></block><block type="device_forever" id="ZI@ru@*t0mtS#av29tj#" x="205" y="0"></block><block type="device_button_event" id=";:,%DHvAvdyAcY~xHNR." x="132" y="222"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="}}FzYK0(GQ:0*w*#=.~n"><value name="COND"><shadow type="logic_boolean" id="?i54,?FV1YB?geGpdKtn"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="lE%M.ElVabUk$7_b:`cb"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="89^UhFaoewY4eDu]{S(b"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="Kv~ECq4RlNhJC`Z|O6,P"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="`#CN_ws]dIT#i;avr,!M"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="%CN5^zmiwyOZF#xD6/BK"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_pause" id="xux;?$@fCl8G{{Y74EdQ"><value name="pause"><shadow type="timePicker" id="*$o4a{nbiLk::HZ3.kRy"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_button_event" id="3j)O69~pg2(0rVd`*:Mg" x="468" y="215"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_while" id="saTVeP4Jk01M-+rXQIC?"><value name="COND"><shadow type="logic_boolean" id="t|5I5mtWgg{hBy|F=]kf"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="TrUMq!{t$H;Q3J?0sp-z"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="|uQVv3fXp@%n00Glf1-4"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # . . . 
+        # # . . .
+        `</field><next><block type="device_show_leds" id=";[)2QFM(v`+u^%9BoC3w"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # . . 
+        # # # . . 
+        # # # . .
+        `</field><next><block type="device_show_leds" id="XHRq#WW${=WGzCPwm2y+"><field name="LEDS">`
+        . . . . . 
+        # # # # . 
+        # # # # . 
+        # # # # . 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="MveLxDZ]M()*~e2dK4VM"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="KTA)_~izQlX=dfw~i,TY"><value name="pause"><shadow type="timePicker" id="x*TofU=bl]%F7[SEmE0,"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
